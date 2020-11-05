@@ -1,0 +1,16 @@
+C:\Users\fredr\source\repos\CalculatorLibrary\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.exe
+C:\Users\fredr\source\repos\CalculatorLibrary\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.deps.json
+C:\Users\fredr\source\repos\CalculatorLibrary\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.runtimeconfig.json
+C:\Users\fredr\source\repos\CalculatorLibrary\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.runtimeconfig.dev.json
+C:\Users\fredr\source\repos\CalculatorLibrary\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.dll
+C:\Users\fredr\source\repos\CalculatorLibrary\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.pdb
+C:\Users\fredr\source\repos\CalculatorLibrary\ConsoleCalculator\bin\Debug\netcoreapp3.1\CalculatorLibrary.dll
+C:\Users\fredr\source\repos\CalculatorLibrary\ConsoleCalculator\bin\Debug\netcoreapp3.1\CalculatorLibrary.pdb
+C:\Users\fredr\source\repos\CalculatorLibrary\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.csprojAssemblyReference.cache
+C:\Users\fredr\source\repos\CalculatorLibrary\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.AssemblyInfoInputs.cache
+C:\Users\fredr\source\repos\CalculatorLibrary\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.AssemblyInfo.cs
+C:\Users\fredr\source\repos\CalculatorLibrary\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\fredr\source\repos\CalculatorLibrary\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.csproj.CopyComplete
+C:\Users\fredr\source\repos\CalculatorLibrary\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.dll
+C:\Users\fredr\source\repos\CalculatorLibrary\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.pdb
+C:\Users\fredr\source\repos\CalculatorLibrary\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.genruntimeconfig.cache
